@@ -35,7 +35,7 @@ https://bookleaf-xuw5.onrender.com
 
 ---
 
-##  API Endpoints
+##  API Endpoints -- Test on Postman
 
 Test 1: GET Authors
 https://bookleaf-xuw5.onrender.com/authors
@@ -54,4 +54,5 @@ Body → raw → JSON
   "author_id": 1,
   "amount": 500
 }
+
 
